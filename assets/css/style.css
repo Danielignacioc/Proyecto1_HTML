@@ -1,0 +1,29 @@
+body{
+    background-image: url(/assets/imgs/fondo.jpg);
+}
+
+h1{
+    color: darksalmon;
+}
+
+h2{
+    color: bisque;
+}
+
+h3{
+    color: greenyellow;
+}
+
+li{
+    color: lavender;
+}
+
+a{
+    color: yellow;
+}
+
+p{
+    margin-left:20px;
+    color: lavender;
+    
+}
